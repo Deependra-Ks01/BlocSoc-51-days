@@ -1,6 +1,6 @@
-Hash = digital signature
+#Hash = digital signature
 
-Blockchain technology has the following main features:
+#Blockchain technology has the following main features:
 
 Decentralization
 
@@ -13,3 +13,21 @@ Immutability means something cannot be changed or altered. No participant can ta
 Consensus
 
 A blockchain system establishes rules about participant consent for recording transactions. You can record new transactions only when the majority of participants in the network give their consent.
+
+#BLOCKCHAIN NETWORK
+
+Public blockchain networks
+
+Public blockchains are permissionless and allow everyone to join them. All members of the blockchain have equal rights to read, edit, and validate the blockchain. People primarily use public blockchains to exchange and mine cryptocurrencies like Bitcoin, Ethereum, and Litecoin. 
+
+Private blockchain networks
+
+A single organization controls private blockchains, also called managed blockchains. The authority determines who can be a member and what rights they have in the network. Private blockchains are only partially decentralized because they have access restrictions. Ripple, a digital currency exchange network for businesses, is an example of a private blockchain.
+
+Hybrid blockchain networks
+
+Hybrid blockchains combine elements from both private and public networks. Companies can set up private, permission-based systems alongside a public system. In this way, they control access to specific data stored in the blockchain while keeping the rest of the data public. They use smart contracts to allow public members to check if private transactions have been completed. For example, hybrid blockchains can grant public access to digital currency while keeping bank-owned currency private.
+
+Consortium blockchain networks
+
+A group of organizations governs consortium blockchain networks. Preselected organizations share the responsibility of maintaining the blockchain and determining data access rights. Industries in which many organizations have common goals and benefit from shared responsibility often prefer consortium blockchain networks. For example, the Global Shipping Business Network Consortium is a not-for-profit blockchain consortium that aims to digitize the shipping industry and increase collaboration between maritime industry operators.
