@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class main {
   public static void main(String[] args) {
     String[] list1 = {"a", "b", "c"};
     String[] list2 = {"a", "b", "c"};
