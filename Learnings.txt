@@ -1,6 +1,6 @@
-#Hash = digital signature
+## Hash = digital signature
 
-#Blockchain technology has the following main features:
+## Blockchain technology has the following main features:
 
 Decentralization
 
@@ -31,3 +31,22 @@ Hybrid blockchains combine elements from both private and public networks. Compa
 Consortium blockchain networks
 
 A group of organizations governs consortium blockchain networks. Preselected organizations share the responsibility of maintaining the blockchain and determining data access rights. Industries in which many organizations have common goals and benefit from shared responsibility often prefer consortium blockchain networks. For example, the Global Shipping Business Network Consortium is a not-for-profit blockchain consortium that aims to digitize the shipping industry and increase collaboration between maritime industry operators.
+
+
+Bitcoin and blockchain might be used interchangeably, but they are two different things. Since Bitcoin was an early application of blockchain technology, people inadvertently began using Bitcoin to mean blockchain, creating this misnomer. But blockchain technology has many applications outside of Bitcoin.
+
+Bitcoin is a digital currency that operates without any centralized control. Bitcoins were originally created to make financial transactions online but are now considered digital assets that can be converted to any other global currency, like USD or euros. A public Bitcoin blockchain network creates and manages the central ledger. 
+
+Bitcoin network
+
+A public ledger records all Bitcoin transactions, and servers around the world hold copies of this ledger. The servers are like banks. Although each bank knows only about the money its customers exchange, Bitcoin servers are aware of every single Bitcoin transaction in the world.
+
+Anyone with a spare computer can set up one of these servers, known as a node. This is like opening your own Bitcoin bank instead of a bank account.
+
+Bitcoin mining
+
+On the public Bitcoin network, members mine for cryptocurrency by solving cryptographic equations to create new blocks. The system broadcasts each new transaction publicly to the network and shares it from node to node. Every ten minutes or so, miners collect these transactions into a new block and add them permanently to the blockchain, which acts like the definitive account book of Bitcoin.
+
+Mining requires significant computational resources and takes a long time due to the complexity of the software process. In exchange, miners earn a small amount of cryptocurrency. The miners act as modern clerks who record transactions and collect transaction fees.
+
+All participants across the network reach a consensus on who owns which coins, using blockchain cryptography technology.
