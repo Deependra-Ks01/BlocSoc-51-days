@@ -1,5 +1,9 @@
 ## Hash = digital signature
 
+
+
+
+
 ## Blockchain technology has the following main features:
 
 Decentralization
@@ -13,6 +17,11 @@ Immutability means something cannot be changed or altered. No participant can ta
 Consensus
 
 A blockchain system establishes rules about participant consent for recording transactions. You can record new transactions only when the majority of participants in the network give their consent.
+
+
+
+
+
 
 #BLOCKCHAIN NETWORK
 
@@ -31,6 +40,16 @@ Hybrid blockchains combine elements from both private and public networks. Compa
 Consortium blockchain networks
 
 A group of organizations governs consortium blockchain networks. Preselected organizations share the responsibility of maintaining the blockchain and determining data access rights. Industries in which many organizations have common goals and benefit from shared responsibility often prefer consortium blockchain networks. For example, the Global Shipping Business Network Consortium is a not-for-profit blockchain consortium that aims to digitize the shipping industry and increase collaboration between maritime industry operators.
+
+
+
+
+
+
+
+
+
+
 
 
 Bitcoin and blockchain might be used interchangeably, but they are two different things. Since Bitcoin was an early application of blockchain technology, people inadvertently began using Bitcoin to mean blockchain, creating this misnomer. But blockchain technology has many applications outside of Bitcoin.
