@@ -23,7 +23,7 @@ contract HashGenerator {
     mapping(address => bytes32[]) private userHashes;
     
     constructor() {
-        owner = msg.sender; // Set the deployer as the owner
+        owner = msg.sender;
     }
 
     modifier onlyOwner() {
